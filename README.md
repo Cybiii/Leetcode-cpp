@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Cybiii/Leetcode-cpp/tree/master/0078-subsets) |
+| [0217-contains-duplicate](https://github.com/Cybiii/Leetcode-cpp/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Cybiii/Leetcode-cpp/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Cybiii/Leetcode-cpp/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Cybiii/Leetcode-cpp/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
