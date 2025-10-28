@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0078-subsets](https://github.com/Cybiii/Leetcode-cpp/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/Cybiii/Leetcode-cpp/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Cybiii/Leetcode-cpp/tree/master/0220-contains-duplicate-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -22,4 +23,17 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Cybiii/Leetcode-cpp/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Cybiii/Leetcode-cpp/tree/master/0220-contains-duplicate-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Cybiii/Leetcode-cpp/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Cybiii/Leetcode-cpp/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Cybiii/Leetcode-cpp/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
