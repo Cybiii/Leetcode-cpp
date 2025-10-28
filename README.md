@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Cybiii/Leetcode-cpp/tree/master/0062-unique-paths) |
 | [0494-target-sum](https://github.com/Cybiii/Leetcode-cpp/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Cybiii/Leetcode-cpp/tree/master/0164-maximum-gap) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Cybiii/Leetcode-cpp/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Cybiii/Leetcode-cpp/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
