@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Cybiii/Leetcode-cpp/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/Cybiii/Leetcode-cpp/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Cybiii/Leetcode-cpp/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/Cybiii/Leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Cybiii/Leetcode-cpp/tree/master/0219-contains-duplicate-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Cybiii/Leetcode-cpp/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Cybiii/Leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Cybiii/Leetcode-cpp/tree/master/0220-contains-duplicate-iii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Cybiii/Leetcode-cpp/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Cybiii/Leetcode-cpp/tree/master/0494-target-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Cybiii/Leetcode-cpp/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
