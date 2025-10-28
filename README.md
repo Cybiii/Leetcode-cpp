@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0219-contains-duplicate-ii](https://github.com/Cybiii/Leetcode-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Cybiii/Leetcode-cpp/tree/master/0220-contains-duplicate-iii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Cybiii/Leetcode-cpp/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0494-target-sum](https://github.com/Cybiii/Leetcode-cpp/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0046-permutations](https://github.com/Cybiii/Leetcode-cpp/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Cybiii/Leetcode-cpp/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Cybiii/Leetcode-cpp/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/Cybiii/Leetcode-cpp/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Cybiii/Leetcode-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Cybiii/Leetcode-cpp/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
