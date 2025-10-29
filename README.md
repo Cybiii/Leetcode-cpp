@@ -73,11 +73,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0008-string-to-integer-atoi](https://github.com/Cybiii/Leetcode-cpp/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Cybiii/Leetcode-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/Cybiii/Leetcode-cpp/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Cybiii/Leetcode-cpp/tree/master/0132-palindrome-partitioning-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Cybiii/Leetcode-cpp/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/Cybiii/Leetcode-cpp/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Cybiii/Leetcode-cpp/tree/master/0132-palindrome-partitioning-ii) |
 | [0494-target-sum](https://github.com/Cybiii/Leetcode-cpp/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
