@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0220-contains-duplicate-iii](https://github.com/Cybiii/Leetcode-cpp/tree/master/0220-contains-duplicate-iii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Cybiii/Leetcode-cpp/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0494-target-sum](https://github.com/Cybiii/Leetcode-cpp/tree/master/0494-target-sum) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Cybiii/Leetcode-cpp/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Backtracking
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0078-subsets](https://github.com/Cybiii/Leetcode-cpp/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Cybiii/Leetcode-cpp/tree/master/0401-binary-watch) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Cybiii/Leetcode-cpp/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Hash Table
 |  |
 | ------- |
