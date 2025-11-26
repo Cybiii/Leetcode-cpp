@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Cybiii/Leetcode-cpp/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Cybiii/Leetcode-cpp/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/Cybiii/Leetcode-cpp/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Cybiii/Leetcode-cpp/tree/master/0078-subsets) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Cybiii/Leetcode-cpp/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Cybiii/Leetcode-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Cybiii/Leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Cybiii/Leetcode-cpp/tree/master/0219-contains-duplicate-ii) |
